@@ -1,0 +1,210 @@
+0_0	0.076984858	01:43:26 UTC
+0_1	0.2821757	Hackers briefly overwhelmed at least three of the 13 computers that help manage global computer traffic Tuesday in one of the most significant attacks against the Internet since 2002.
+0_2	0.1346868	Experts said the unusually powerful attacks lasted as long as 12 hours but passed largely unnoticed by most computer users, a testament to the resiliency of the Internet.
+0_3	0.094639879	Behind the scenes, computer scientists worldwide raced to cope with enormous volumes of data that threatened to saturate some of the Internet's most vital pipelines.
+0_4	0.11303363	The Homeland Security Department confirmed it was monitoring what it called "anomalous" Internet traffic.
+0_5	0.10318078	"There is no credible intelligence to suggest an imminent threat to the homeland or our computing systems at this time," the department said in a statement.
+0_6	0.078163938	The motive for the attacks was unclear, said Duane Wessels, a researcher at the Cooperative Association for Internet Data Analysis at the San Diego Supercomputing Center.
+0_7	0.051078166	"Maybe to show off or just be disruptive; it doesn't seem to be extortion or anything like that," Wessels said.
+0_8	0.077099498	Other experts said the hackers appeared to disguise their origin, but vast amounts of rogue data in the attacks were traced to South Korea.
+0_9	0.091062473	The attacks appeared to target UltraDNS, the company that operates servers managing traffic for Web sites ending in "org" and some other suffixes, experts said.
+0_10	0.081321001	Officials with NeuStar Inc., which owns UltraDNS, confirmed only that it had observed an unusual increase in traffic.
+0_11	0.12233856	Among the targeted "root" servers that manage global Internet traffic were ones operated by the Defense Department and the Internet's primary oversight body.
+0_12	0.094737355	"There was what appears to be some form of attack during the night hours here in California and into the morning," said John Crain, chief technical officer for the Internet Corp. for Assigned Names and Numbers.
+0_13	0.095183067	He said the attack was continuing and so was the hunt for its origin.
+0_14	0.09700827	"I don't think anybody has the full picture," Crain said.
+0_15	0.08921924	"We're looking at the data."
+0_16	0.096141951	Crain said Tuesday's attack was less serious than attacks against the same 13 "root" servers in October 2002 because technology innovations in recent years have increasingly distributed their workloads to other computers around the globe.
+0_17	0.097760613	AP Internet writer Anick Jesdanun contributed to this report from New York.
+1_0	0.063991484	Backed by "armies" of cyber-police, China is spearheading an increasingly sophisticated movement by repressive regimes to restrict the Internet, a global media watchdog said in its annual report.
+1_1	0.053907575	China is the world's biggest prison for cyber-dissidents with 52 people in jail for online activities that the ruling Communist Party in Beijing deemed inappropriate, Paris-based watchdog Reporters Without Borders (RSF) said.
+1_2	0.090498578	Around the world there are only around 10 others known to be in prison for posting criticisms of governments online, although some regimes are trying to "ape" China in restricting freedom of information on the Internet, it added.
+1_3	0.045741862	In the report, published Thursday, RSF warned that China's increasingly sophisticated anti-Internet techniques, coupled with its growing global clout, raised concerns its brand of censorship may be exported.
+1_4	0.070655035	"With China enjoying increasing political influence, people are wondering... whether perhaps China's Internet model, based on censorship and surveillance, may one day be imposed on the rest of the world," it said.
+1_5	0.054190886	In a speech last month, Chinese President Hu Jintao made no secret of his ambitions for China, calling on the Communist Party to "purify the Internet environment."
+1_6	0.074328958	"Whether we can cope with the Internet is a matter that affects the development of socialist culture, the security of information and the stability of the state," Hu said, in comments carried by the state-run press.
+1_7	0.04034822	Outside of China, RSF said four cyber-dissidents were in jail in Vietnam, three in Syria and one each in Tunisia, Libya and Iran.
+1_8	0.062603086	It said authorities in those countries were working extremely hard to keep up with the latest technological developments such as YouTube, a website that allows people to post and share videos online.
+1_9	0.06038953	"With the success of YouTube, China and Iran are keen to filter the videos that appear there -- too much'subversive' content for China and too much 'immorality' for Iran," it said.
+1_10	0.085351119	China remains the most powerful force in controlling the Internet not just through technology, but through old-fashioned manpower and depth of resources, according to the watchdog.
+1_11	0.078985921	"China... spends an enormous amount on Internet surveillance equipment and hires armies of informants and cyber-police," it said.
+1_12	0.08564946	"It also has the political weight to force the companies in the sector -- such as Yahoo!, Google, Microsoft and Cisco Systems -- to do what it wants them to."
+1_13	0.088489104	The US tech firms came in for harsh criticism last year as more cases were revealed of their alleged help in maintaining the so- called "Great Firewall of China."
+1_14	0.092920326	Reporters Without Borders said in February 2006 that it had uncovered a second case of Yahoo! providing evidence to Chinese authorities that helped send a political dissident to jail.
+1_15	0.094101158	However the watchdog said Chinese and other governments seeking to control the Internet were not necessarily winning the war.
+1_16	0.09469231	"Internet users are organising themselves and conjuring up new solutions to tackle these dictatorships, get round the filters and protect their anonymity," it said.
+1_17	0.096249459	"They use and create new technology, encrypt their e-mail and use other tools that are still not detected by cyber-police."
+1_18	0.096296388	Nevertheless, RSF said Internet users could not fight off censorship alone and needed the help of governments and corporations around the world which supported democracy and freedom of expression.
+1_19	0.097563326	"It has become vital to examine new technology from a moral standpoint and understand the secondary effects of it," the group said.
+1_20	0.099638506	"If firms and democratic countries continue to duck the issue and pass off ethical responsibility on others, we shall soon be in a world where all our communications are spied on."
+2_0	0.16894586	The worst attack in years on the Internet's infrastructure, which slowed traffic but failed to bring down the Web, used infected computers around the world as "zombies," security experts said Wednesday.
+2_1	0.10192921	The US Department of Homeland Security meanwhile confirmed that its cybersecurity arm had been monitoring "anomalous" activity on the Internet.
+2_2	0.077092436	"The nature of the traffic has not been confirmed, and the servers which are overseas remain operational," DHS spokesman Russ Knocke said.
+2_3	0.079417071	"There are no indications of any direct nexus to the United States at this time.
+2_4	0.13001526	Also, there is no credible intelligence to suggest an imminent threat to the homeland or our computing systems at this time."
+2_5	0.065705934	Graham Cluley, senior technology consultant at the London-based firm Sophos, said Tuesday's incident "seems to have been the most serious attack against these domain name servers" since late 2002.
+2_6	0.09344397	Cluley said three of the 13 domain name system (DNS) servers that control global Internet traffic were hit with a so-called "denial of service" attack, which means they were bombarded with information requests in an effort to bring them down.
+2_7	0.064789005	Cluley noted that the attack was coming from PCs taken over by hackers to create zombie networks or "botnets" to bombard the servers with traffic.
+2_8	0.077082892	"These zombie computers could have brought the Web to its knees, and while the resilience of the root servers should be commended, more needs to be done to tackle the root of the problem -- the lax attitude of some users towards IT security," he said.
+2_9	0.072096253	He said that since the 2002 attacks, "the system has become more resilient and is well set up to bounce back from these attacks."
+2_10	0.10100969	The US-based SANS Internet Storm Center said experts at the computer security institute were "aware of the attacks," and trying to get more information about them.
+2_11	0.066164237	"We're still hunting for some technical details," said center director Marcus Sachs.
+2_12	0.088301207	Cluley said some reports traced the attacks to South Korea, but added that "it doesn't mean the hackers are based there... the bad guys could be based anywhere in the world."
+2_13	0.086456439	"It could be that your grandmother's computer in the bedroom, unbeknownst to her, may have been trying to bring down the Internet."
+2_14	0.10486836	He said the motive of the attack was unclear.
+2_15	0.086950767	One tactic used by hackers in the past was blackmail, or to threaten to shut down a website with a denial of service attack if money is not paid.
+2_16	0.091154834	"Another possibility is just plain mischief, and my feeling is that this may have been just a bit of a lark," Cluley said.
+2_17	0.086625689	"Fortunately this was repelled."
+2_18	0.10034085	The attack was on three of the 13 Internet root servers, which manage the domains from various locations around the world and convert website names such as Amazon.com to their numeric IP (Internet Protocol) address.
+2_19	0.10058027	"If the DNS servers were to fall over then pandemonium would ensue, emphasizing the importance of properly defending all PCs from being taken over by hackers," said Cluley.
+2_20	0.095891814	"A denial-of-service attack like this swamps Web-connected servers with traffic from many computers around the globe.
+2_21	0.098877796	It's a bit like 20 hippos trying to get through a revolving door at the same time -- there's no route through and everything clogs up."
+2_22	0.09739081	In October 2002, another major attack targeted the 13 root servers and slowed traffic.
+2_23	0.098361447	But experts said at the time that the Internet would still operate with at least one of the servers functioning.
+3_0	0.076984858	01:03:25 UTC
+3_1	0.12710039	Government and university researchers have been exploring ways to redesign the Internet from scratch.
+3_2	0.080997357	Some of the challenges that led researchers to start thinking of clean-slate approaches:
+3_3	0.1129777	SECURITY
+3_4	0.080956465	THE CHALLENGE: The Internet was designed to be open and flexible, and all users were assumed to be trustworthy.
+3_5	0.055953654	Thus, the Internet's protocols were not designed to authenticate users and their data, allowing spammers and hackers to easily cover their tracks by attaching fake return addresses onto data packets.
+3_6	0.090229104	THE CURRENT FIX: Internet applications such as firewalls and spam filters attempt to control security threats.
+3_7	0.046293828	But because such techniques do not penetrate deep into the network, bad data still get passed along, clogging systems and possibly fooling the filtering technology.
+3_8	0.050758682	SOLUTION: The network would have to be redesigned to be skeptical of all users and data packets from the start.
+3_9	0.045895062	Data would not be passed along unless the packets are authenticated.
+3_10	0.060331328	Faster computers today should be able to handle the additional processing required within the network.
+3_11	0.092016616	MOBILITY
+3_12	0.081537057	THE CHALLENGE: Computers rarely moved, so numeric Internet addresses were assigned to devices based on their location.
+3_13	0.076110786	A laptop, on the other hand, is constantly on the move.
+3_14	0.075890302	THE CURRENT FIX: A laptop changes its address and reconnects as it moves from one wireless access point to another, disrupting data flow.
+3_15	0.080084254	Another workaround is to have all traffic channel back to the first access point as a laptop moves to a second or a third location, but delays could result from the extra distance.
+3_16	0.088358622	SOLUTION: The address system would have to be restructured so that addresses are based more on the device and less on the location.
+3_17	0.088402825	This way, a laptop could retain its address as it hops through multiple hot spots.
+3_18	0.10179489	UBIQUITY
+3_19	0.096852983	THE CHALLENGE: The Internet was designed when there were relatively few computers connecting to it.
+3_20	0.096859983	The proliferation of personal computers and mobile devices led to a scarcity in the initial address system.
+3_21	0.095546911	There will be even more demand for addresses as toasters, air conditioners and other devices come with Internet capability, as will standalone sensors for measuring everything from the temperature to the availability of parking spaces.
+3_22	0.096037937	THE CURRENT FIX: Engineers expanded the address pool with a system called IPv6, but nearly a decade after most of the groundwork was completed, the vast majority of software and hardware still use the older, more crowded IPv4 technology.
+3_23	0.10142059	Even if more migrate to IPv6, processing the addresses for all the sensors could prove taxing.
+3_24	0.098475126	SOLUTION: Researchers are questioning whether all devices truly need addresses.
+3_25	0.09902163	Perhaps sensors in a home could talk to one another locally and relay the most important data through a gateway bearing an address.
+3_26	0.09681458	This way, the Internet's traffic cops, known as routers, wouldn't have to keep track of every single sensor, improving efficiency.
+4_0	0.077991888	SINGAPORE, March 23 (Xinhua)
+4_1	0.12603021	Singapore ranked second in Asia of having largest number of malicious activity per Internet user, according to Symantec's latest Internet Security Threat Report on Friday.
+4_2	0.071421219	The report said this ranking was due to the small population of Internet users, which meant that each incident carried more proportional weight, according to a local television Channel NewsAsia report.
+4_3	0.068218022	Data theft, data leakage and the creation of malicious code that targets specific organizations increased, while the United States remained the top country of attack origin, Asia was where all the action happens, the report said.
+4_4	0.083055913	Hackers usually conduct "phishing" attacks to steal personal information.
+4_5	0.07223079	"Phishing" is a method used to trick consumers into giving up user information by fake e-mails from banks and other organizations, the report said.
+4_6	0.082142466	It added that as a financial hub, Singapore has become more susceptible to phishing attacks.
+4_7	0.097515961	Much of the data was stolen by infecting computers to allow hackers to gain access to passwords and other sensitive information through e-mails.
+4_8	0.094047983	More often than not, this happens with spam that has viruses or other malicious code.
+4_9	0.095864277	Symantec, one of the world's largest security-software makers, also said that the stolen confidential information and captured data were sold on "underground" servers.
+4_10	0.096664207	"Users should have an Internet security suite with technologies like antivirus, firewalls and anti-phishing that get continually updated," said Gavin Lowth, Symantec's director of online channels in Asia-Pacific and Japan.
+5_0	0.084723051	Cox News Service
+5_1	0.13605144	Viruses, spam and other computer security problems are growing bigger every day, but the number of companies in the business of fighting them is getting smaller.
+5_2	0.095679274	The Internet security industry is in the midst of a major consolidation, with large companies gobbling up little ones as they try to expand their menu of offerings to consumers and businesses.
+5_3	0.045835131	Ultimately, that will mean fewer choices of security vendors for consumers and businesses, as well as potentially higher (though perhaps in some cases, lower) prices for modern-day computing necessities like antivirus protection or spam filtering services.
+5_4	0.051727301	At the annual RSA Security industry conference here last week, talk of industry consolidation was nearly as common as conversations about the latest computer viruses and worms.
+5_5	0.12546071	Some of the biggest Web security companies - Atlanta-based Internet Security Systems, Austin, Texas-based TippingPoint, even conference sponsor RSA Security - now are subsidiaries of bigger companies.
+5_6	0.040380618	At least one more buyout was announced last week, and even more consolidation may be coming.
+5_7	0.047320149	"There's the slight whiff of blood in the air," said Andrew Jaquith, an analyst at the Yankee Group technology research firm.
+5_8	0.031085407	"You can sort of hear the screeching noises of the vultures overhead."
+5_9	0.049561117	RSA Security president Art Coviello, whose Bedford, Mass.-based company was bought by EMC Corp. for $2.1 billion in September, went as far as to predict the end of most independent Internet security vendors.
+5_10	0.023226259	"Our industry is ripe for a transformation," he told conference attendees.
+5_11	0.047771569	"With the exception of a few exceptional startups, there will be no standalone security businesses within three years."
+5_12	0.076709879	Not that the sellers mind, of course.
+5_13	0.11997822	In some ways, the Internet security business has been like the dot-com business.
+5_14	0.056620792	Like the dot-coms, the high-tech security business was built mainly by small entrepreneurs.
+5_15	0.052670166	And now it's many of those entrepreneurs' turn to make millions overnight as their corporations get gobbled up.
+5_16	0.089051219	"It's not bad," Internet Security Systems co-founder Tom Noonan said of the $1.3 billion IBM paid to buy his company in late October.
+5_17	0.084317507	"It covers the groceries for the shareholders."
+5_18	0.073331643	Since the consumer Internet security market is dominated by a few big players - namely Symantec, McAfee, Trend Micro and Microsoft - consumer prices may not be affected much by the consolidation.
+5_19	0.073860453	But businesses might feel more consequences of the merger mania.
+5_20	0.078017173	According to a recent survey of corporate IT executives by antispam company Postini Inc., about 43 percent said they expect to spend more money on business communications solutions this year.
+5_21	0.087901655	Only 7 percent said they expect to spend less.
+5_22	0.089609226	Some industry executives claim overall computer security costs may actually go down because of industry consolidations, however.
+5_23	0.089885947	That's because big security companies can now offer attractively priced bundles of products, not unlike how cable companies or telephone companies bundle their services.
+5_24	0.086877555	"Obviously as we package these together, (you) will get better pricing than if you went out and bought each of them independently," said EMC Chief Executive Joe Tucci told conference attendees.
+5_25	0.088640872	Several factors are driving the consolidation.
+5_26	0.094147963	First, security companies now need to offer more than just one or two products to meet businesses and consumers' needs.
+5_27	0.091290083	No longer do customers just need antivirus or computer firewall software; they also usually need antispam and antispyware software, employee identification and authentication services, database monitoring and protection, and other high-tech defenses.
+5_28	0.088226051	Second is the need for better technology.
+5_29	0.088453862	As hackers get more sophisticated, so must security companies.
+5_30	0.096416413	Often, the best way to get new expertise is to buy other companies that have it.
+5_31	0.099202557	Like almost anything involving software, there's also a Microsoft factor.
+5_32	0.096861086	The world's biggest software company is pushing steadily into the security software business, and pushing down prices to gain market share.
+5_33	0.09661985	If other companies don't get bigger and add more services by consolidating, they could have a harder time keeping up with the behemoth.
+5_34	0.08833816	And then there's the problem of shrinking profits.
+5_35	0.097732979	Though companies and consumers have a bigger need than ever for computer security, profits - especially from consumers - are decreasing as the industry matures and big players continue to push down prices.
+5_36	0.098466578	"It's not like this line of business is quite the mint it used to be," said Yankee Group's Jaquith.
+5_37	0.096921198	"You've got technology challenges on one hand and revenue challenges on the other.
+5_38	0.086746497	"Everybody is dealing with this right now," he said.
+5_39	0.088377684	Bob Keefe's e-mail address is bkeefecoxnews.com
+6_0	0.077965878	SAN FRANCISCO
+6_1	0.13132956	To keep up with the growing strains put on the Internet by both legitimate users and online attackers, a Silicon Valley company is undertaking a $100 million expansion of a crucial part of the system that speeds Web users to their destinations.
+6_2	0.094764132	The company, VeriSign, is a leader in networking infrastructure and manages registration for the.com and .net Internet domains.
+6_3	0.071816905	It is among the stewards of an international system of computer servers running programs that translate domain names like google.com or wikipedia.org into numeric addresses.
+6_4	0.06878718	But the system is under increasing strain because of the explosion of human and machine Internet users, and because of occasional assaults by automated software programs that threaten to overwhelm the ability to respond to routine requests.
+6_5	0.095666053	VeriSign executives said their expansion project, to be announced Thursday, was crucial because of the increasing role that the Internet plays in basic functions of modern life.
+6_6	0.058345014	"This isn't just about Web sites anymore, and it's not about online shopping," said Ken Silva, VeriSign's chief security officer.
+6_7	0.060937717	"It's about the way humans communicate and the way everything is interconnected."
+6_8	0.092170775	The potential challenge was underscored on Tuesday when an automated attack against the domain name system was carried out for several hours by a distributed computer program known as a botnet.
+6_9	0.12942496	The attack initially affected all of the 13 root server systems -- the top level of the hierarchy of interconnected computers -- and then focused for several hours on servers operated by the Internet Corporation for Assigned Names and Numbers (the organization responsible for the Internet address system), and the Pentagon.
+6_10	0.1130042	The attack impeded but did not halt any of the systems, according to several of the operators.
+6_11	0.11420517	Such attacks make expansion of the name server systems crucial, Silva said.
+6_12	0.099083538	The VeriSign project, to be completed by 2010, will offer a tenfold increase in the capacity of two root servers that the company operates and in the infrastructure that supports the.com and .net systems.
+6_13	0.094693471	VeriSign servers, now in 20 regional centers around the world, will be expanded to 70 sites.
+6_14	0.096790689	The effort would not only improve response time, the company said, but would also make it possible to recognize and contain Internet attacks more quickly.
+6_15	0.095754234	VeriSign profits indirectly from the growth of Internet traffic from its business managing the.com and .net domains.
+6_16	0.095713017	In addition to resisting cyber attacks, the enhancement of the root server system is made necessary by the rapid growth in new types of Internet devices, many of which can communicate among themselves without direct human intervention.
+6_17	0.097476435	The company said it expected the number of Internet users to grow from 1 billion today to 1.8 billion in 2010.
+6_18	0.096056938	Many will reach the Internet with multiple devices, including cell phones, most of which are expected to be Internet-enabled.
+7_0	0.076822923	WUHAN, Feb. 13 (Xinhua)
+7_1	0.060140648	Police in central China's Hubei Province say they have arrested six people in connection with the spread of the notorious computer virus known as "Xiongmao Shaoxiang", or "Panda burning joss stick".
+7_2	0.067841498	The virus, which infects program files and flashes a picture of a panda holding three joss sticks, has been spreading through the Internet since December.
+7_3	0.09675538	It has infected millions of computers nationwide, according the provincial public security bureau on Monday.
+7_4	0.06977097	The bureau says it is the first time they have made arrests involving a major Internet virus that originated in China.
+7_5	0.068349411	The virus can also steal the account names and passwords of online game players and popular chat sites.
+7_6	0.091474138	It was listed as the worst computer virus last year by a major Chinese anti-virus company known as Rising.
+7_7	0.092735464	Internet authorities say Li Jun, 25, a resident in the provincial capital of Wuhan, wrote virus program and let it loose on the Internet last October.
+7_8	0.099580344	The authorities say Li confessed to selling the virus to 12 people for 100,000 yuan (12,887 U.S.dollars).
+7_9	0.10236343	Li also produced the "Wuhan boy"virus, "Wuhan boy 2005" virus and "QQ tail" virus, sources say.
+7_10	0.10033849	Five other suspects, who used the virus to steal accounts of online gamers, have also been detained.
+8_0	0.076984858	04:10:56 UTC
+8_1	0.098048719	VeriSign Inc., which manages the ".com" and ".net" domain names registry and ensures Internet users can reach those locations, said it will spend more than $100 million (euro77 million) in a massive infrastructure upgrade to combat a new wave of computer attacks and manage a surge in online activity.
+8_2	0.13172124	Industry experts said VeriSign's investment comes at a critical time for the computing world.
+8_3	0.18911928	They pointed to hackers' powerful attacks this week on the computers that manage global Internet traffic as evidence of the mounting threat from online criminals.
+8_4	0.054101369	Stratton Sclavos, VeriSign's chief executive officer, was scheduled to announce the upgrade Thursday in San Francisco at a security conference sponsored by RSA Inc., the security division of EMC Corp.
+8_5	0.074048418	Sclavos said it's the company's largest investment in infrastructure upgrades and technology development.
+8_6	0.025951292	The overall investment is slated to boost capacity tenfold by 2010.
+8_7	0.12590413	Sclavos said VeriSign, which operates two of the 13 so-called "root" servers that manage global Internet traffic, has an obligation to stay ahead of increasingly insidious and widespread Internet attacks.
+8_8	0.050474505	"We're seeing a lot more sophistication in these attacks," he said.
+8_9	0.071761985	"And they're not just targeting thousands of users -- they're targeting hundreds of thousands or millions of users."
+8_10	0.07204661	The Mountain View-based company said the expansion will increase its ability to process domain name system, or DNS, queries from 400 billion a day to more than 4 trillion a day.
+8_11	0.084637574	Those queries occur every time Internet users click on ".com" or ".net" Web sites or check e-mail and use applications that utilize those domain names.
+8_12	0.076015986	VeriSign said it currently processes 24 billion such interactions daily, and it is preparing for dramatically higher activity as more users get online worldwide and conduct more of their business and leisure on the Web.
+8_13	0.078696676	The investment also will boost bandwidth on VeriSign's systems from more than 20 gigabits per second to more than 200 gigabits per second.
+8_14	0.089325646	The company promises reduced bottlenecks and ramped-up speed from infrastructure that is more broadly distributed around the world.
+8_15	0.089223528	But Sclavos said security is also a key element of the upgrade, including the strengthening of security provisions and engineering improvements to bolster the ability to identify and track security threats around the globe.
+8_16	0.094066819	"This is good for the whole Internet infrastructure," Sclavos said.
+8_17	0.094676659	"If the Internet's infrastructure fails, hundreds of billions of dollars in commerce and communications will be at risk.
+8_18	0.092681262	We can't afford for that to happen."
+8_19	0.10102542	Will Stofega, a research manager with market researcher IDC, said the attacks this week that overwhelmed at least three of the 13 root servers highlight the growing threat posed by online criminals.
+8_20	0.096922248	He said the last major round of large upgrades occurred during the dot-com boom and that VeriSign's investment could prod other companies into following suit.
+8_21	0.086515657	"This is a very timely investment," Stofega said.
+8_22	0.097683599	"In a couple of years, we're going to start seeing some very, very serious types of attacks.
+8_23	0.10077323	If we don't start making these types of investments now, we're in trouble."
+9_0	0.078937479	In their persistent quest to breach the Internet's defenses, the bad guys are honing their weapons and increasing their firepower.
+9_1	0.084897431	With growing sophistication, they are taking advantage of programs that secretly install themselves on thousands or even millions of personal computers, band these computers together into an unwitting army of zombies, and use the collective power of the dragooned network to commit Internet crimes.
+9_2	0.081593657	These systems, called botnets, are being blamed for the huge spike in spam that bedeviled the Internet in recent months, as well as fraud and data theft.
+9_3	0.070279037	Security researchers have been concerned about botnets for some time because they automate and amplify the effects of viruses and other malicious programs.
+9_4	0.076120918	What is new is the escalating scale of the problem -- and the precision with which some of the programs can scan computers for specific information, like corporate and personal data, to drain money from online bank accounts and stock brokerages.
+9_5	0.059782636	"It's the perfect crime, both low-risk and high-profit," said Gadi Evron, an computer security researcher for an Israeli-based firm, Beyond Security, who coordinates an international volunteer effort to fight botnets.
+9_6	0.070424964	"The war to make the Internet safe was lost long ago, and we need to figure out what to do now."
+9_7	0.088337311	David Dagon, a Georgia Institute of Technology researcher who is a co-founder of Damballa, a company focusing on controlling botnets, said the consensus among scientists is that botnet programs are present on about 11 percent of the more than 650 million computers attached to the Internet.
+9_8	0.09648013	Plagues of viruses and other malicious programs have periodically swept through the Internet since 1988, when there were only 60,000 computers online.
+9_9	0.097347944	Each time, computer security managers and users have cleaned up the damage and patched holes in systems.
+9_10	0.094430965	In recent years, however, such attacks have become endemic, forcing increasingly stringent security responses.
+9_11	0.098306325	And the emergence of botnets has alarmed not just computer security experts, but also specialists who created the early Internet infrastructure.
+9_12	0.095403595	David J. Farber, a Carnegie Mellon computer scientist who was an Internet pioneer, said: "It's an insidious threat, and what worries me is that the scope of the problem is still not clear to most people.
+9_13	0.10011249	The popular machines are so easy to penetrate, and that's scary."
+9_14	0.096934513	So far botnets have predominantly infected Windows-based computers, although there have been reports of attacks on computers running Linux and Macintosh operating systems.

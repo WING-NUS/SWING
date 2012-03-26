@@ -1,0 +1,14 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    getopt (1.4.1)
+    json (1.6.5)
+    parseconfig (0.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  getopt
+  json
+  parseconfig

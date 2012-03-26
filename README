@@ -1,0 +1,124 @@
+=======================
+IMPORTANT INFORMATION
+=======================
+
+0. General Description
+1. Contact Information
+2. Copyright and Licensing
+3. Requirements
+4. Configuration and Running
+5. Example Usage
+6. Evaluation
+7. Documentation
+
+
+0. General Description
+======================
+
+SWING (Summarizer from WING) is a multiple-document news summarization system by the Web Information Retrieval/Natural Language Group (WING) at the National University of Singapore.
+
+SWING was our entry to the Summarization Track of the Text Analysis Conference 2011 (http://www.nist.gov/tac/2011/Summarization/) and performed very well with respect to the automatic ROUGE measures.
+
+We hope that releasing this work can help benefit the community. Do let us know if you have any feedback or suggestions for our work! Thank you!
+
+
+
+1. Contact Information
+======================
+
+For any questions, you can contact:
+
+Praveen Bysani (praveen.iiith@gmail.com)
+Jun-Ping Ng (junping@comp.nus.edu.sg)
+Ziheng Lin (linzihen@comp.nus.edu.sg)
+A/P Min-Yen KAN (kanmy@comp.nus.edu.sg)
+
+We will do our best to answer your queries, and we will be very glad for your feedback. However do understand that we may not be able to get back to everyone of you due to time and manpower constraints. Thank you for your understanding!
+
+
+2. Copyright and Licensing
+==========================
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+
+3. Requirements
+===============
+- Install ruby (version >= 1.8.7)
+- Install 'bundle' gem using "gem install bundle"
+- Install svm light package, under $SWING_HOME/lib/svm_light directory (available at http://download.joachims.org/svm_light/current/svm_light.tar.gz )
+- Install ROUGE package, under $SWING_HOME/lib/ROUGE-1.5.5 directory 
+
+
+4. Configuration and Running
+============================
+- Unzip the distributable (e.g. swing.20120326.tgz) to the $SWING_HOME directory
+- Run "bundle install" to install the required packages
+- Set the necessary parameters in 'configuration.conf' file 
+- Summaries are generated in the $SWING_HOME/data/Summaries directory
+
+
+5. Example Usage:
+================
+
+Two examples are provided below to illustrate usage of SWING:
+
+1) Case 1: Training a model and generating summaries from the trained model
+
+   i) Use configuration.conf to set the path of training documents, topic description file, model summaries and training model file.
+    [train]
+    documents dir=/home/praveen/TAC/data/tac2010/docs/
+    xml file=/home/praveen/TAC/data/tac2010/test_topics.xml
+    model file=svm.2010.eval.model
+    model summaries dir=/home/praveen/TAC/evaluation/tac2010/ROUGE/models/
+    
+   ii) Similarly, set the configurations for test environment. Be sure that you are using the same training model file in test environment too.
+    [test]
+    documents dir=/home/praveen/TAC/data/tac2011/data/source_documents/
+    xml file=/home/praveen/TAC/data/tac2011/docs/GuidedSumm_topics.xml
+    model file=svm.2010.eval.model
+
+   iii) Specify the features to be used for sentence scoring
+     [general]
+     features = sp, sl, dfs
+
+   iv) Navigate to $SWING_HOME/src. Run model_trainer and then summary_generator modules
+
+2) Case 2: Generating summaries from an existing trained model
+    
+    i) Set the configurations in testing environment and take care that the features specified are same as those used in model. 
+    ii) run summary_generator
+
+3) Case 2 is useful for evaluating a configuration of features with varying parameters such as redundancy threshold, summary length, scoring granularity etc.
+
+4) Two models are provided in $SWING_HOME/data directory,
+    baseline.model = model for TAC 2010 cluster A documents with baseline features ( document frequency, sentence position, sentence length)
+    csi.sentence.model = model for TAC 2010 cluster A documents with baseline+CSI features ( document frequency, sentence position, sentence length, categoary relevance score, category KL divergence)
+
+
+6. Evaluation
+=============
+- Set the model summary path of test document set 
+    [test]
+    model summaries dir=/home/praveen/TAC/evaluation/tac2011/ROUGE/models/
+
+- Run ruby $SWING_HOME/src/eval.rb
+
+
+
+7. Documentation
+================
+
+Detailed documentation about the working pipeline and each of the modules is provided in "SWING documentation.doc"

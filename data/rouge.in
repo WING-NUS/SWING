@@ -1,0 +1,838 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="D1101-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1101A-A</P>
+</PEERS>
+<MODELS>
+<M ID="A">D1101-A.M.100.A.A</M>
+<M ID="B">D1101-A.M.100.A.B</M>
+<M ID="D">D1101-A.M.100.A.D</M>
+<M ID="C">D1101-A.M.100.A.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1102-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1102A-A</P>
+</PEERS>
+<MODELS>
+<M ID="E">D1102-A.M.100.A.E</M>
+<M ID="G">D1102-A.M.100.A.G</M>
+<M ID="A">D1102-A.M.100.A.A</M>
+<M ID="F">D1102-A.M.100.A.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1103-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1103A-A</P>
+</PEERS>
+<MODELS>
+<M ID="C">D1103-A.M.100.A.C</M>
+<M ID="G">D1103-A.M.100.A.G</M>
+<M ID="A">D1103-A.M.100.A.A</M>
+<M ID="E">D1103-A.M.100.A.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1104-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1104A-A</P>
+</PEERS>
+<MODELS>
+<M ID="D">D1104-A.M.100.A.D</M>
+<M ID="B">D1104-A.M.100.A.B</M>
+<M ID="H">D1104-A.M.100.A.H</M>
+<M ID="A">D1104-A.M.100.A.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1105-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1105A-A</P>
+</PEERS>
+<MODELS>
+<M ID="D">D1105-A.M.100.A.D</M>
+<M ID="A">D1105-A.M.100.A.A</M>
+<M ID="H">D1105-A.M.100.A.H</M>
+<M ID="B">D1105-A.M.100.A.B</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1106-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1106A-A</P>
+</PEERS>
+<MODELS>
+<M ID="G">D1106-A.M.100.A.G</M>
+<M ID="C">D1106-A.M.100.A.C</M>
+<M ID="D">D1106-A.M.100.A.D</M>
+<M ID="A">D1106-A.M.100.A.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1107-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1107B-A</P>
+</PEERS>
+<MODELS>
+<M ID="C">D1107-A.M.100.B.C</M>
+<M ID="B">D1107-A.M.100.B.B</M>
+<M ID="F">D1107-A.M.100.B.F</M>
+<M ID="E">D1107-A.M.100.B.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1108-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1108B-A</P>
+</PEERS>
+<MODELS>
+<M ID="G">D1108-A.M.100.B.G</M>
+<M ID="B">D1108-A.M.100.B.B</M>
+<M ID="A">D1108-A.M.100.B.A</M>
+<M ID="C">D1108-A.M.100.B.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1109-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1109B-A</P>
+</PEERS>
+<MODELS>
+<M ID="H">D1109-A.M.100.B.H</M>
+<M ID="E">D1109-A.M.100.B.E</M>
+<M ID="F">D1109-A.M.100.B.F</M>
+<M ID="B">D1109-A.M.100.B.B</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1110-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1110B-A</P>
+</PEERS>
+<MODELS>
+<M ID="D">D1110-A.M.100.B.D</M>
+<M ID="E">D1110-A.M.100.B.E</M>
+<M ID="H">D1110-A.M.100.B.H</M>
+<M ID="B">D1110-A.M.100.B.B</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1111-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1111B-A</P>
+</PEERS>
+<MODELS>
+<M ID="E">D1111-A.M.100.B.E</M>
+<M ID="A">D1111-A.M.100.B.A</M>
+<M ID="B">D1111-A.M.100.B.B</M>
+<M ID="C">D1111-A.M.100.B.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1112-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1112C-A</P>
+</PEERS>
+<MODELS>
+<M ID="G">D1112-A.M.100.C.G</M>
+<M ID="C">D1112-A.M.100.C.C</M>
+<M ID="A">D1112-A.M.100.C.A</M>
+<M ID="H">D1112-A.M.100.C.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1113-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1113C-A</P>
+</PEERS>
+<MODELS>
+<M ID="F">D1113-A.M.100.C.F</M>
+<M ID="C">D1113-A.M.100.C.C</M>
+<M ID="E">D1113-A.M.100.C.E</M>
+<M ID="B">D1113-A.M.100.C.B</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1114-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1114C-A</P>
+</PEERS>
+<MODELS>
+<M ID="G">D1114-A.M.100.C.G</M>
+<M ID="E">D1114-A.M.100.C.E</M>
+<M ID="C">D1114-A.M.100.C.C</M>
+<M ID="F">D1114-A.M.100.C.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1115-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1115C-A</P>
+</PEERS>
+<MODELS>
+<M ID="A">D1115-A.M.100.C.A</M>
+<M ID="D">D1115-A.M.100.C.D</M>
+<M ID="C">D1115-A.M.100.C.C</M>
+<M ID="H">D1115-A.M.100.C.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1116-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1116C-A</P>
+</PEERS>
+<MODELS>
+<M ID="C">D1116-A.M.100.C.C</M>
+<M ID="G">D1116-A.M.100.C.G</M>
+<M ID="E">D1116-A.M.100.C.E</M>
+<M ID="F">D1116-A.M.100.C.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1117-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1117C-A</P>
+</PEERS>
+<MODELS>
+<M ID="B">D1117-A.M.100.C.B</M>
+<M ID="H">D1117-A.M.100.C.H</M>
+<M ID="F">D1117-A.M.100.C.F</M>
+<M ID="C">D1117-A.M.100.C.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1118-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1118D-A</P>
+</PEERS>
+<MODELS>
+<M ID="F">D1118-A.M.100.D.F</M>
+<M ID="A">D1118-A.M.100.D.A</M>
+<M ID="D">D1118-A.M.100.D.D</M>
+<M ID="E">D1118-A.M.100.D.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1119-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1119D-A</P>
+</PEERS>
+<MODELS>
+<M ID="G">D1119-A.M.100.D.G</M>
+<M ID="C">D1119-A.M.100.D.C</M>
+<M ID="B">D1119-A.M.100.D.B</M>
+<M ID="D">D1119-A.M.100.D.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1120-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1120D-A</P>
+</PEERS>
+<MODELS>
+<M ID="H">D1120-A.M.100.D.H</M>
+<M ID="B">D1120-A.M.100.D.B</M>
+<M ID="D">D1120-A.M.100.D.D</M>
+<M ID="A">D1120-A.M.100.D.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1121-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1121D-A</P>
+</PEERS>
+<MODELS>
+<M ID="C">D1121-A.M.100.D.C</M>
+<M ID="D">D1121-A.M.100.D.D</M>
+<M ID="G">D1121-A.M.100.D.G</M>
+<M ID="B">D1121-A.M.100.D.B</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1122-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1122D-A</P>
+</PEERS>
+<MODELS>
+<M ID="E">D1122-A.M.100.D.E</M>
+<M ID="F">D1122-A.M.100.D.F</M>
+<M ID="D">D1122-A.M.100.D.D</M>
+<M ID="C">D1122-A.M.100.D.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1123-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1123D-A</P>
+</PEERS>
+<MODELS>
+<M ID="G">D1123-A.M.100.D.G</M>
+<M ID="A">D1123-A.M.100.D.A</M>
+<M ID="H">D1123-A.M.100.D.H</M>
+<M ID="D">D1123-A.M.100.D.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1124-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1124E-A</P>
+</PEERS>
+<MODELS>
+<M ID="C">D1124-A.M.100.E.C</M>
+<M ID="G">D1124-A.M.100.E.G</M>
+<M ID="E">D1124-A.M.100.E.E</M>
+<M ID="F">D1124-A.M.100.E.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1125-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1125E-A</P>
+</PEERS>
+<MODELS>
+<M ID="B">D1125-A.M.100.E.B</M>
+<M ID="C">D1125-A.M.100.E.C</M>
+<M ID="E">D1125-A.M.100.E.E</M>
+<M ID="G">D1125-A.M.100.E.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1126-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1126E-A</P>
+</PEERS>
+<MODELS>
+<M ID="A">D1126-A.M.100.E.A</M>
+<M ID="F">D1126-A.M.100.E.F</M>
+<M ID="H">D1126-A.M.100.E.H</M>
+<M ID="E">D1126-A.M.100.E.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1127-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1127E-A</P>
+</PEERS>
+<MODELS>
+<M ID="H">D1127-A.M.100.E.H</M>
+<M ID="E">D1127-A.M.100.E.E</M>
+<M ID="D">D1127-A.M.100.E.D</M>
+<M ID="A">D1127-A.M.100.E.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1128-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1128E-A</P>
+</PEERS>
+<MODELS>
+<M ID="E">D1128-A.M.100.E.E</M>
+<M ID="D">D1128-A.M.100.E.D</M>
+<M ID="B">D1128-A.M.100.E.B</M>
+<M ID="F">D1128-A.M.100.E.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1129-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1129E-A</P>
+</PEERS>
+<MODELS>
+<M ID="C">D1129-A.M.100.E.C</M>
+<M ID="E">D1129-A.M.100.E.E</M>
+<M ID="B">D1129-A.M.100.E.B</M>
+<M ID="F">D1129-A.M.100.E.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1130-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1130F-A</P>
+</PEERS>
+<MODELS>
+<M ID="G">D1130-A.M.100.F.G</M>
+<M ID="H">D1130-A.M.100.F.H</M>
+<M ID="F">D1130-A.M.100.F.F</M>
+<M ID="A">D1130-A.M.100.F.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1131-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1131F-A</P>
+</PEERS>
+<MODELS>
+<M ID="D">D1131-A.M.100.F.D</M>
+<M ID="F">D1131-A.M.100.F.F</M>
+<M ID="E">D1131-A.M.100.F.E</M>
+<M ID="H">D1131-A.M.100.F.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1132-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1132F-A</P>
+</PEERS>
+<MODELS>
+<M ID="A">D1132-A.M.100.F.A</M>
+<M ID="C">D1132-A.M.100.F.C</M>
+<M ID="H">D1132-A.M.100.F.H</M>
+<M ID="F">D1132-A.M.100.F.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1133-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1133F-A</P>
+</PEERS>
+<MODELS>
+<M ID="F">D1133-A.M.100.F.F</M>
+<M ID="B">D1133-A.M.100.F.B</M>
+<M ID="D">D1133-A.M.100.F.D</M>
+<M ID="A">D1133-A.M.100.F.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1134-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1134F-A</P>
+</PEERS>
+<MODELS>
+<M ID="D">D1134-A.M.100.F.D</M>
+<M ID="F">D1134-A.M.100.F.F</M>
+<M ID="H">D1134-A.M.100.F.H</M>
+<M ID="A">D1134-A.M.100.F.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1135-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1135G-A</P>
+</PEERS>
+<MODELS>
+<M ID="G">D1135-A.M.100.G.G</M>
+<M ID="H">D1135-A.M.100.G.H</M>
+<M ID="F">D1135-A.M.100.G.F</M>
+<M ID="E">D1135-A.M.100.G.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1136-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1136G-A</P>
+</PEERS>
+<MODELS>
+<M ID="A">D1136-A.M.100.G.A</M>
+<M ID="E">D1136-A.M.100.G.E</M>
+<M ID="B">D1136-A.M.100.G.B</M>
+<M ID="G">D1136-A.M.100.G.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1137-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1137G-A</P>
+</PEERS>
+<MODELS>
+<M ID="B">D1137-A.M.100.G.B</M>
+<M ID="G">D1137-A.M.100.G.G</M>
+<M ID="F">D1137-A.M.100.G.F</M>
+<M ID="E">D1137-A.M.100.G.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1138-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1138G-A</P>
+</PEERS>
+<MODELS>
+<M ID="B">D1138-A.M.100.G.B</M>
+<M ID="H">D1138-A.M.100.G.H</M>
+<M ID="G">D1138-A.M.100.G.G</M>
+<M ID="A">D1138-A.M.100.G.A</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1139-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1139G-A</P>
+</PEERS>
+<MODELS>
+<M ID="G">D1139-A.M.100.G.G</M>
+<M ID="C">D1139-A.M.100.G.C</M>
+<M ID="F">D1139-A.M.100.G.F</M>
+<M ID="D">D1139-A.M.100.G.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1140-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1140H-A</P>
+</PEERS>
+<MODELS>
+<M ID="B">D1140-A.M.100.H.B</M>
+<M ID="D">D1140-A.M.100.H.D</M>
+<M ID="H">D1140-A.M.100.H.H</M>
+<M ID="G">D1140-A.M.100.H.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1141-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1141H-A</P>
+</PEERS>
+<MODELS>
+<M ID="D">D1141-A.M.100.H.D</M>
+<M ID="G">D1141-A.M.100.H.G</M>
+<M ID="F">D1141-A.M.100.H.F</M>
+<M ID="H">D1141-A.M.100.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1142-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1142H-A</P>
+</PEERS>
+<MODELS>
+<M ID="C">D1142-A.M.100.H.C</M>
+<M ID="H">D1142-A.M.100.H.H</M>
+<M ID="E">D1142-A.M.100.H.E</M>
+<M ID="G">D1142-A.M.100.H.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1143-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1143H-A</P>
+</PEERS>
+<MODELS>
+<M ID="B">D1143-A.M.100.H.B</M>
+<M ID="A">D1143-A.M.100.H.A</M>
+<M ID="D">D1143-A.M.100.H.D</M>
+<M ID="H">D1143-A.M.100.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D1144-A">
+<PEER-ROOT>
+/home/praveen/TAC/swing/data/Summaries/csi.VP
+</PEER-ROOT>
+<MODEL-ROOT>
+/home/praveen/TAC/evaluation/tac2011/ROUGE/models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="Z">D1144H-A</P>
+</PEERS>
+<MODELS>
+<M ID="C">D1144-A.M.100.H.C</M>
+<M ID="D">D1144-A.M.100.H.D</M>
+<M ID="G">D1144-A.M.100.H.G</M>
+<M ID="H">D1144-A.M.100.H.H</M>
+</MODELS>
+</EVAL>
+</ROUGE_EVAL>
