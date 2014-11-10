@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<TACtaskdata year="2011" track="SUMMARIZATION" task="GUIDED"  dataset="TEST">
+
+<topic id = "D1101A" category = "2">
+
+	<title> Amish Shooting </title>
+
+	<docsetA id = "D1101A-A">
+		<doc id = "AFP_ENG_20061002.0523.LDC2007T07" />
+		<doc id = "APW_ENG_20061002.1126.LDC2007T07" />
+		
+	</docsetA>
+
+	<docsetB id = "D1101A-B">
+		<doc id = "APW_ENG_20061008.0844.LDC2007T07" />
+		<doc id = "APW_ENG_20061009.1245.LDC2007T07" />
+	
+	</docsetB>
+
+</topic>
+
+
+
+</TACtaskdata>

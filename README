@@ -67,6 +67,7 @@ If you are interested in using SWING commercially or embedding its technology wi
 - Unzip the distributable (e.g. swing.20120326.tgz) to the $SWING_HOME directory
 - Run "bundle install" to install the required packages
 - Set the necessary parameters in 'configuration.conf' file 
+- The default values in the configuration file such as 'documents dir', 'xml file', refer to the resources distributed by NIST as part of TAC shared task.
 - Summaries are generated in the $SWING_HOME/data/Summaries directory
 
 
